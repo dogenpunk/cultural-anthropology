@@ -1,0 +1,124 @@
+#+TITLE: Liberal Arts
+#+AUTHOR: Matthew M. Nelson
+#+EMAIL: mmnelson@madisoncollege.edu
+#+LANGUAGE: en
+#+STARTUP: align overview indent fold nodlcheck hidestars oddeven lognotestate
+#+PROPERTY: mkdirp yes
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{nth}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+OPTIONS: toc:nil h:0
+-----
+* Part A
+** What does the term /liberal arts/ mean, and how is it misunderstood?
+
+*** Trivium & Quadrivium vs. Mechanical or /servile/ arts
+In the late \nth{20}-century, the term "liberal" accrued a largely negative
+connotation in American society. This was in large part due to the term's
+association with "political correctness" and the rise of identity politics.
+While this association is warranted, the terms are not equivalent. The "liberal
+arts" traditionally referred to the studies comprising the trivium[fn:1] and
+quadrivium[fn:2]. These subjects were distinguished from the /mechanical/ or
+/servile/ skills employed in professional pursuits.
+
+*** Liberal as "independent"
+In his book, _Thank You for Arguing_, Jay Hendricks discusses the importance of
+rhetoric to American society. He refers to a "natural aristocracy" comprised of
+those with the best "liberal education" whom the founders of the United States
+assumed would arise to "refine and enlarge" public opinion (366). The author
+defines "liberal" to mean free from dependence upon others, and "liberal arts"
+to mean the skills that "prepared students for their place at the top of this
+merit system" (366). This is an interesting distinction in our society today,
+which has devalued the /mechanical/ skills of traditionally "blue collar" trades.
+And, inversely, overvalues higher education. It's also telling that the founders
+of the U.S. depended upon an "enlightened, disinterested few" (367) individuals
+beholden to neither factional or economic interests. The idea being that these
+independently wealthy individuals, without a proverbial "horse in the race",
+would shape public opinion in such a way that decisions could be made without
+disproportionately benefiting any group in particular.
+
+*** The "authority" of kings and advertisers
+In class, liberal was defined as someone who did not wish to live under the rule
+of a king or emperor (Matthews, Luke). This anti-imperialist meaning, while
+evident in much of U.S. history before the second World War, is more likely
+labeled anarchist in today's political climate. This sense of the word, however,
+is consistent with that which Hendricks uses. Of course, there are few true
+kings and emperors today. The idea of "divine right" has little sway in our
+world today. As stated in class, the former authority of kings has been replaced
+by the pervasive influence and psychological warfare employed by corporations
+and advertisers.
+
+** Why are the liberal arts important to my practice as a college student?
+Through all of these facets of the term runs the thread of "independence" in one
+form or another. It's this thread that is particularly important in the
+education I seek here at MATC. Cultivating the skills necessary to make informed
+decisions, to form sound opinions is of primary importance. This requires an
+ability to discern the socio-cultural and ideological motivations behind
+arguments, both in popular media and academic research. To put it another way,
+the liberal arts are important to honing a skeptical mind, another unjustly
+maligned term.
+
+* Part B
+In order to successfully navigate the world around us, human beings developed
+the capacity for symbolic thought. This form of cognition differs from the
+/indexical/ thought possesed throughout the rest of the animal kingdom in that it
+allows us to generalize, or abstract, our experience and apply it to new
+experiences. Categories are a manifestation of this capacity for abstraction.
+
+Webster's defines /category/ as "one of the highest classes to which the objects
+of knowledge or thought can be reduced, and by which they can be arranged in a
+system". The differentiation is often what comes to mind when we think about
+categories; what properties distinguish one object from another. What is more
+important to the concept is the ability to form a system. That is, the relations
+between the members of different categories are what allow us to derive value
+from the categories. The category tree is only valuable inasmuch as it enables
+action on our part. An example being that I can produce fire using a tree and a
+type of rock. The fact is that most any tree will do, but not any rock will.
+
+** Define and describe the difference between /natural/ and /cultural/ categories
+Of primary interest to those of us involved in anthropology are /natural/ and
+/cultural/ categories. /Natural categories/ are classifications which depend upon an
+object possessing observable, inherent properties. Examples of which include
+bipedality (the property of locution on two feet), flammability (the property of
+being consumable by fire), etc. Membership in each of these categories is
+independent of the existence of human beings and any particular culture.
+
+Alternately, membership in /cultural categories/ is entirely dependent upon the
+specific cultural background of the observer. In fact, cultural categories,
+rather than delineate impermeable boundaries, form continua. For each cultural
+category there is an ideal or authentic instance by which the purity of all
+other instances is judged. Examples of this are fruits, race, and Tolkienian
+fantasy. In each of these examples, membership is independent of any empirical
+property of the observed object.
+
+** Describe the consequences of /human/ being a /natural category/, and /person/ a /cultural category/.
+/Human/ and /Person/ are, respectively, natural and cultural categories.
+Classification as human is dependent upon properties such as being a mammal,
+bipedal, and having fully-opposable thumbs. Classification as a person, however,
+is entirely dependent upon the respect afforded an object by a human being. I
+say an object because it is entirely possible for a non-human object to be
+afforded the status of personhood while denying it to a human. The denial of
+personhood to human beings is seen in propaganda during every war or conflict. A
+human enemy presented as either an agent of pure evil or as entirely animalistic
+in order to stir the emotions and make it possible for "our boys" to murder
+people they have never before encountered and have no other motivation to kill.
+
+On the other side of the Venn diagram are non-humans that are afforded the
+respect commensurate with being a person. Common examples being pets like dogs
+and cats, but even more abstractly, legal entities like corporations, in
+America, enjoy the same (and often greater) rights as any other citizen.
+
+* Footnotes
+
+[fn:2] Arithmetic, geometry, music, and astronomy
+
+[fn:1] Grammar, logic, and rhetoric
