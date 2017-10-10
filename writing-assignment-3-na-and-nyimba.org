@@ -1,0 +1,50 @@
+#+TITLE: Writing Assignment #3
+#+AUTHOR: Matthew M. Nelson
+#+EMAIL: mmnelson@madisoncollege.edu
+#+LANGUAGE: en
+#+STARTUP: align overview indent fold nodlcheck hidestars oddeven lognotestate
+#+PROPERTY: mkdirp yes
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{nth}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+OPTIONS: toc:nil h:1
+-----
+* The Na & Nyimba Question-Set
+** How are the Na & Nyimba's cultural understandings about personhood and social obligations similar yet different from each other?
+*** Similarities
+**** Inheritance
+**** Stratified Hierarchies
+*** Differences
+**** Matrilineal vs. Patrilineal (or Fratrilineal) (locus of power)
+**** Love
+** How are their understandings different from notions of personhood and social obligation in the United States?
+*** Unilateral vs. Bilateral Kinship
+*** Fatherhood
+*** Patrilineal
+** What do /you/ think we gain from a study of Na Nyimba society and culture?
+*** We begin to see that our social structures are expressions of our ideas, hopes, and fears.
+*** Studying these cultures shines a light on the power structures in our own society
+* The Bad Old Nineteenth Century Question-Set
+** What part did the idea of "progress" play in \nth{19}-century scholars study of the range and variation of human societies?
+*** Progress was the lens through which anthropologists judged societies and their worth.
+** How does that differ from how present-day anthropologists try to make sense of the world?
+*** The assessment of the value of a society isn't the goal of modern anthropologists, rather qualitative understanding.
+** What was the point of our examination of the "good-better-best" schemes of Tylor, Bachofen, & Morgan?
+*** To illustrate how the "good-better-best" scheme influenced assessments and was a hindrance to understanding.
+** What is the significance of the fact these schemes were /progressive/, /deterministic/, & /teleological/?
+*** They enforced a rigid, linear view of societies on a value scale that required specific steps in development.
+** What does this have to do with the fact that present-day cultural anthropologists avoid using words such as /primitive/ and /advanced/?
+*** Anthropologists today avoid these words due to the implicit competitive, value judgment.
+** How do terms like /developed nation/ and /developing nation/, /first world/ and /third world/ perpetuate these \nth{19}-century forms of thought?
+*** These terms, borrowed from other disciplines, implicitly rank societies, just as /primitive/ and /advanced/. They're avoided as they hide this judgment behind a facade of objectivity.
+** How would societies like the Na, Nyimba, and Canela fare in such thinking?
+***
