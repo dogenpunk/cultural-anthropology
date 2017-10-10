@@ -1,0 +1,100 @@
+#+TITLE: Expressive Culture
+#+AUTHOR: Matthew M. Nelson
+#+EMAIL: mmnelson@madisoncollege.edu
+#+LANGUAGE: en
+#+STARTUP: align overview indent fold nodlcheck hidestars oddeven lognotestate
+#+PROPERTY: mkdirp yes
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{nth}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+OPTIONS: toc:nil h:1
+----------------
+* The Fun, Expressive Culture & Cultural Construction Question Set
+
+The concept of /person/ is a socially constructed idea that expresses our
+collective admiration, or scorn, of a thing; be it a human, an orangutan, or a
+leprechaun. As members of a society collectively choose the recipients of the
+designation /person/, different societies will necessarily appoint different
+recipients at different points in time. Consequently, we can say that the
+designation /person/ expresses a collective principle or shared understanding of
+the world. Cultural constructions are a means for society to project meaning
+onto something. In a sense, these projections are a way for the members of a
+society to externalize their inner-experience and share it with others. It can
+also be a tool for reinforcing the principles and values of a society. When a
+society externalizes in this manner, a /cultural construction/ is what we call the
+result.
+
+Just as cultural constructions are reflections of the values of a society, the
+term /expressive culture/ denotes activities and objects that form a society's
+narratives about itself. Baseball and football are examples of expressive
+culture in American society. We can see in both expressions of American society
+at the height of each game's popularity. Baseball, with its emphasis on teamwork
+and slow pace, reflected \nth{19}-century America's agricultural roots and the
+value of leisure time. Alternately, American football's huddles and dazzling
+displays of individual athleticism reflect the highly individualized, corporate
+realities of American life in the late \nth{20}-century. As America transitioned
+from being a predominantly social, agricultural society to a highly
+individualize, corporate one, the popularity of baseball fell in relation to
+football's.
+
+Clifford Geertz's investigation of cockfights in Bali revealed that /fun/, in the
+anthropological sense, results from the relief of social pressure and anxiety.
+The tremendous pressure resulting from the intricate web of caste relations in
+Bali makes every social interaction a opportunity to damage one's prospects in
+life, as well as the prospects of one's family. Balinese men abandon the highly
+formalized social rules at cockfights however. As they comment on their wild
+behavior during the cockfight, attendees allude to the chaos as a projection of
+their society if they did not have such strict standards of behavior.
+
+In these examples of American and Balinese games we can see different
+expressions of an individual's relation to society. Each contains an analogy for
+or commentary on the structure of society as well.
+
+* The Bow-Wow, Woof-Woof Question Set
+1. Why did Luke make a big deal about the term /companion animal/?
+   - Why do we need them /now/?
+2. What does this have to do with the concepts of /cultural construction/ and
+   /expressive culture/?
+   - What do these terms mean and how do they relate to dog-human relationships
+     in various societies?
+3. Why are dogs said to have ambiguous states in the Beng and Teenek societies?
+   - How are dogs treated ambivalently in these three societies (Beng, Teenek,
+     U.S.)?
+4. What cultural concerns are being expressed by the Beng and Teenek through the ways they talk about their dogs?
+   - What about Americans?
+
+
+Dogs are a particularly interesting subject of anthropological analysis as they
+are a part of almost every human society, yet those societies relate to dogs in
+vastly different ways. In America we tend to grant dogs /personhood/ to at least
+some degree; the Beng and Teenek societies less so. In each society, however,
+dogs exist both within and outside society.
+
+For a majority of the time dogs have been part of human society they have served
+as a labor force. Whether as beasts of burden or hunters or sentries, dogs have
+served society since time immemorial. The particular roles dogs have played has
+defined the different breeds we now recognize. However, as machines have
+gradually replaced physical labor, so has the role of dogs also changed. As the
+need for manual labor has decreased and as American society has become
+increasingly individualistic we have begun to increasingly rely upon dogs for
+companionship. This has led to the development of new breeds of dogs whose sole
+function in society is that of providing friendship and loyalty.
+
+Because of dogs' status as both members of society and as outsiders, their
+identities are prime targets for cultural construction. As we explored in class,
+dogs in Beng and Teenek societies have ambiguous status. Dogs suffer as the
+targets of the transference of frustration and anger these societies feel
+towards oppressive colonial powers. Alternately, these societies attribute
+supernatural powers and honors to dogs as they serve as guides in the
+underworld. In American and Western European society, dogs are symbols of both
+loyalty and promiscuity, the benefactors of blind luck and the embodiment grim
+persistence. These polarized qualities reflect the concerns of each society.
