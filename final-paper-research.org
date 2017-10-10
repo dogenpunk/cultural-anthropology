@@ -1,0 +1,30 @@
+#+TITLE: Liberal Arts
+#+AUTHOR: Matthew M. Nelson
+#+EMAIL: mmnelson@madisoncollege.edu
+#+LANGUAGE: en
+#+STARTUP: align overview indent fold nodlcheck hidestars oddeven lognotestate
+#+PROPERTY: mkdirp yes
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{nth}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \usepackage[style=mla-new]{biblatex}
+#+LATEX_HEADER: \addbibresource{final-paper-research.bib}
+#+OPTIONS: toc:nil h:0
+-----------
+* Topics
+** Wrestling
+It might be interesting to compare Japanese, Mexican, and Greco-Roman wrestling.
+My experience attending a sumo tournament in Tokyo may or may not provide
+sufficient material.
+** Foodways
+Another obvious topic choice is foodways of some sort. My deep and abiding
+attachment to Southern food probably hosts enough depth to provide
