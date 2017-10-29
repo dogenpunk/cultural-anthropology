@@ -21,12 +21,15 @@
 * The Na & Nyimba Question-Set
 ** How are the Na & Nyimba's cultural understandings about personhood and social obligations similar yet different from each other?
 *** Similarities
-**** Inheritance
+**** Collective ownership within families
 **** Stratified Hierarchies
 *** Differences
 **** Matrilineal vs. Patrilineal (or Fratrilineal) (locus of power)
 **** Love
+**** Individual freedom (Na women have a lot, Nyimba women don't, Nyimba men don't have a whole lot of freedom either)
 ** How are their understandings different from notions of personhood and social obligation in the United States?
+Americans' understanding of personhood and social obligation differ greatly from
+those of both the Na and the Nyimba.
 *** Unilateral vs. Bilateral Kinship
 *** Fatherhood
 *** Patrilineal
@@ -47,4 +50,3 @@
 ** How do terms like /developed nation/ and /developing nation/, /first world/ and /third world/ perpetuate these \nth{19}-century forms of thought?
 *** These terms, borrowed from other disciplines, implicitly rank societies, just as /primitive/ and /advanced/. They're avoided as they hide this judgment behind a facade of objectivity.
 ** How would societies like the Na, Nyimba, and Canela fare in such thinking?
-***

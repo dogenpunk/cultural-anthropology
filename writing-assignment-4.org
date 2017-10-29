@@ -1,0 +1,84 @@
+#+TITLE: Writing Assignment #4
+#+AUTHOR: Matthew M. Nelson
+#+EMAIL: mmnelson@madisoncollege.edu
+#+LANGUAGE: en
+#+STARTUP: align overview indent fold nodlcheck hidestars oddeven lognotestate
+#+PROPERTY: mkdirp yes
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{nth}
+#+LATEX_HEADER: \usepackage{enumitem}
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+OPTIONS: toc:nil h:1
+-----
+* The Pigs and Power Question Set
+** Why is it best to understand Ongka's leadership role in terms of /influence/ rather than /authority/?
+A lack of social distance and anonymity is a defining feature of Kawelka
+society. Individuals and households tend to have both a high degree of
+familiarity and frequent contact with others. This lack of social distance
+undermines the efficacy of violence and coercion, which are the foundations of
+authority. In order to achieve his goals, Ongka must instead rely on the
+manipulation of social relationships.
+** How is influence different from authority?
+Influence and authority differ in the wellsprings of power from which they draw.
+Influence depends upon social relationships and their deft manipulation.
+Authority stands almost diametrically opposed to influence in that it relies
+upon violence and coercion.
+** How is a leadership role based on authority different from how the Kawelka expect a big man to behave?
+The Kawelka expect "big men" to achieve their aims through the tools of
+influence rather than authority. Negotiation and manipulation rather than
+violence and coercion are the accepted means of leadership.
+** How are the two correlated to the size of a society and the degree or amount of anonymity in that society?
+The efficacy of these two forms of leadership is directly related to the size of
+a society. In smaller societies, influence is a highly effective tool that is
+available to most every member of that society due to low degrees of social
+distance. It is also more effective as the cost of violence between members of
+small societies is much higher. As a society grows beyond a few hundred people,
+however, the degree of social distance necessarily increases. This is partially
+due to the fact that humans are unable to closely track more than about 200
+personal relationships. Once a society is large enough
+* The Personhood and Consumption Question Set
+** We live in a society with a high degree of social distance. What does that mean?
+Social distance is defined as "the perceived or desired degree of remoteness
+between a member of one social group and the members of another, as evidenced in
+the level of intimacy tolerated between them." Our society is said to have a
+high degree of social distance. This is evidenced by the preponderance of
+relationships mediated by money.
+** How is this related to the idea of anonymity?
+Greater levels of social distance are enabled by the use of currency to mediate
+the relationships between producers, distributors, and consumers. Without
+currency of some form, the exchange of goods and services must be negotiated
+between parties. In societies with less social distance, these exchanges are
+informed by the relationships between the parties. These social relationships
+enrich the exchange by widening the scope of possibility for mediums of
+exchange. In other words, without a generic value store like currency, the terms
+of exchange may include a wide range of goods, services, or manipulations.
+** How is a market exchange different from a reciprocal exchange economy?
+** How is anonymity correlated to this difference?
+When currency is introduced as a generic store of value, goods and services are
+commodified and stripped of any symbolism of the social relationships between
+producers, distributors, and consumers. Once this symbolism is removed, the
+exchange no longer forms or strengthens the social bonds between the
+participants in the exchange.
+** How about the difference between capitalist schemes of production vs. kinship-based schemes of production?
+** What does the term /consumer culture/ refer to?
+Consumer culture refers to the means by which members of a society form
+identity based on the goods, services, and ideas which they consume. In the
+past, members of our society were largely engaged in the production and
+distribution of goods and services. These activities formed much of the basis
+for members' identities. This is evidenced in the preponderance of familial
+names taken from occupational activities.
+** How is it that our American consumption habits are attempts to meanings lacking the production and distribution phases of the economy?
+As our society has moved away from endeavors, like manufacturing, which formed
+the basis for identities, we have chosen to use consumption activities as the
+basis of much of our identities. Where Americans once identified strongly with
+their occupational activities (e.g. "I am a miner", etc.), we now signify our
+identities through products we buy, media we watch or read, foods we eat, and
+ideologies to which we adhere.
