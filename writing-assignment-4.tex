@@ -1,30 +1,72 @@
-% Created 2017-10-25 Wed 08:22
-% Intended LaTeX compiler: pdflatex
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+%
+% Margin - 1 inch on all sides
+%
+\usepackage[letterpaper]{geometry}
+\usepackage{times}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+
+%
+% Double-spacing
+%
+\usepackage{setspace}
+\doublespacing
+
+%
+% Rotating tables (e.g. sideways when too long)
+%
+\usepackage{rotating}
+
+\usepackage{nth}
+
+
 \usepackage{graphicx}
 \usepackage{grffile}
 \usepackage{longtable}
 \usepackage{wrapfig}
-\usepackage{rotating}
+
+%
+% Fancy-header package to modify header/page numbering (insert last name)
+%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{Nelson \thepage}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+% To make sure we actually have header 0.5in away from the top edge
+%12pt is on-sixth of an inch. Subtract this from 0.5in to get headsep
+%value
+\setlength\headsep{0.333in}
+
 \usepackage[normalem]{ulem}
 \usepackage{amsmath}
 \usepackage{textcomp}
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
-\usepackage{setspace}
-\doublespacing
-\usepackage[margin=1in]{geometry}
-\usepackage{nth}
 \usepackage{enumitem}
 \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\author{Matthew M. Nelson}
-\date{\today}
-\title{Writing Assignment \#4}
+
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[style=mla-new]{biblatex}
+\addbibresource{writing-assignment-1-liberal-arts.bib}
+%
+% Works cited environment
+% (to start, use \begin{workscited...}, each entry preceded by
+% \bibent)
+% - from Ryan Alcock's MLA style file
+%
+\newcommand{\bibent}{\noindent \hangindent 40pt}
+\newenvironment{workscited}{\newpage \begin{center} Works Cited \end{center}}{\newpage }
+
 \hypersetup{
  pdfauthor={Matthew M. Nelson},
  pdftitle={Writing Assignment \#4},
@@ -32,86 +74,133 @@
  pdfsubject={},
  pdfcreator={Emacs 25.3.1 (Org mode 9.1.2)},
  pdflang={English}}
+
+%
+% Begin document
+%
 \begin{document}
+\begin{flushright}
+\singlespacing
+Matthew M. Nelson\\
+Luke Matthews\\
+Cultural Anthropology and Human Diversity\\
+\today\\
+\end{flushright}
+\doublespacing
 
-\maketitle
+\begin{center}
+  Writing Assignment \#4
+\end{center}
 
-\noindent\rule{\textwidth}{0.5pt}
-\section{The Pigs and Power Question Set}
-\label{sec:orgc6b2f78}
-\begin{enumerate}
-\item Why is it best to understand Ongka's leadership role in terms of \emph{influence} rather than \emph{authority}?
-\label{sec:orgd253388}
-A lack of social distance and anonymity is a defining feature of Kawelka
-society. Individuals and households tend to have both a high degree of
-familiarity and frequent contact with others. This lack of social distance
-undermines the efficacy of violence and coercion, which are the foundations of
-authority. In order to achieve his goals, Ongka must instead rely on the
-manipulation of social relationships.
-\item How is influence different from authority?
-\label{sec:orgbd21d1f}
-\item How is a leadership role based on authority different from how the Kawelka expect a big man to behave?
-\label{sec:orga41c522}
-The Kawelka expect ``big men'' to achieve their aims through the tools of
-influence rather than authority. Negotiation and manipulation rather than
-violence and coercion are the accepted means of leadership.
-\item How are the two correlated to the size of a society and the degree or amount of anonymity in that society?
-\label{sec:orgd19611f}
-The efficacy of these two forms of leadership is directly related to the size of
-a society. In smaller societies, influence is a highly effective tool that is
-available to most every member of that society due to low degrees of social
-distance. It is also more effective as the cost of violence between members of
-small societies is much higher. As a society grows beyond a few hundred people,
-however, the degree of social distance necessarily increases. This is partially
-due to the fact that humans are unable to closely track more than about 200
-personal relationships. Once a society is large enough
-\end{enumerate}
-\section{The Personhood and Consumption Question Set}
-\label{sec:org72e5c82}
-\begin{enumerate}
-\item We live in a society with a high degree of social distance. What does that mean?
-\label{sec:org7126844}
-Social distance is defined as ``the perceived or desired degree of remoteness
-between a member of one social group and the members of another, as evidenced in
-the level of intimacy tolerated between them.'' Our society is said to have a
-high degree of social distance. This is evidenced by the preponderance of
-relationships mediated by money.
-\item How is this related to the idea of anonymity?
-\label{sec:org0546c1d}
-Greater levels of social distance are enabled by the use of currency to mediate
-the relationships between producers, distributors, and consumers. Without
-currency of some form, the exchange of goods and services must be negotiated
-between parties. In societies with less social distance, these exchanges are
-informed by the relationships between the parties. These social relationships
-enrich the exchange by widening the scope of possibility for mediums of
-exchange. In other words, without a generic value store like currency, the terms
-of exchange may include a wide range of goods, services, or manipulations.
-\item How is a market exchange different from a reciprocal exchange economy?
-\label{sec:org7b67818}
-\item How is anonymity correlated to this difference?
-\label{sec:orgd07bfc7}
-When currency is introduced as a generic store of value, goods and services are
-commodified and stripped of any symbolism of the social relationships between
-producers, distributors, and consumers. Once this symbolism is removed, the
-exchange no longer forms or strengthens the social bonds between the
-participants in the exchange.
-\item How about the difference between capitalist schemes of production vs. kinship-based schemes of production?
-\label{sec:org43e1382}
-\item What does the term \emph{consumer culture} refer to?
-\label{sec:org96daec4}
-Consumer culture refers to the means by which members of a society form
-identity based on the goods, services, and ideas which they consume. In the
-past, members of our society were largely engaged in the production and
-distribution of goods and services. These activities formed much of the basis
-for members' identities. This is evidenced in the preponderance of familial
-names taken from occupational activities.
-\item How is it that our American consumption habits are attempts to meanings lacking the production and distribution phases of the economy?
-\label{sec:org8f0c660}
-As our society has moved away from endeavors, like manufacturing, which formed
-the basis for identities, we have chosen to use consumption activities as the
-basis of much of our identities. Where Americans once identified strongly with
-their occupational activities (e.g. ``I am a miner'', etc.), we now signify our
-identities through products we buy, media we watch or read, foods we eat, and
-ideologies to which we adhere.
-\end{enumerate}
+\section*{The Pigs and Power Question Set}
+
+Influence and authority form a continuum from which those who occupy positions
+of leadership derive power. And just as no society is neither purely egalitarian
+nor purely hierarchical, leadership is never rooted solely in influence or
+authority. That said, these two sources of power are useful tools for
+understanding how leadership operates in a society. Ongka's role as \emph{big man} in
+Kawelka society is difficult to understand when viewed from the standpoint of
+industrialized Western society. This is because leaders in our society derive
+power from \emph{authority}, primarily. The Kawelka \emph{big man}, on the other hand, derives
+his power from \emph{influence}.
+
+Authority depends upon the threat of violence and coercion, be it implicit or
+explicit, to affect an outcome. Violence is disturbing and at odds with social
+cohesion between individual. Thus violence as a source of sustainable social
+power is only possible in a society large enough that most interactions between
+its members are anonymous. Without anonymity, violence becomes increasingly
+difficult the less social distance between the purveyor and recipient of that
+violence.
+
+Influence, from the anthropological point of view, is an expression of social
+relationships and is highly contingent both upon the social distance between
+parties and the concerned parties' social skills. The knowledge of a person's
+desires, proclivities, past actions, and disposition, coupled with the ability
+to leverage this knowledge form a means by which a person might affect the
+behaviors of others. Thus, the \emph{big man} must rely on his own knowledge of the
+members of his society and his own ability to employ that knowledge in
+persuading others to act as he wishes.
+
+There is a direct relationship between the size of a society and its leaders'
+level of dependence on either influence or authority. Humans have an upper limit
+on the number of social relationships they are able to maintain. As influence
+requires low levels of social distance to be effective, the larger a society
+grows the less its leaders will be able to maintain the degree of social
+closeness required. And, as a society grows larger, social distance between
+members necessarily increases as people are less able to keep track of each
+other. Leadership in this larger society must increasingly depend upon the tools
+of authority in order to maintain social cohesion.
+
+In the case of Ongka, his role as \emph{big man} depends upon the tools of influence in
+order to fulfill his obligation in the form of the Moka. Kawelka society is
+based in the concept of reciprocity, of which the Moka is an example writ large.
+The high level of interdependence and lack of anonymity with Kawelka society
+creates an environment hostile to the tools of authority. Thus Ongka must
+coax, cajole, and negotiate with his fellow villagers in order to assemble his
+big Moka.
+
+\newpage{}
+\section*{The Personhood and Consumption Question Set}
+Social distance is the ``perceived or desired degree of remoteness between a
+member of one social group and the members of another, as evidenced in the level
+of intimacy between them'' (``Social distance''). In day-to-day life, this
+distance reveals itself in the preponderance of our relationships mediated by
+money. For example, in a society with little social distance, if I need a bushel
+of apples in order to bake a pie for Thanksgiving I will likely go to an orchard
+and negotiate with the farmer directly. The exchange of goods and services in
+this case is dependent upon my relationship with the farmer, my knowledge of him
+and his business, and my ability to use this leverage to my advantage. This
+exchange would look different in an industrialized Western society. The most
+notable differences would be the generalized price, and thus the presence of
+money, and the relative lack of social interaction between myself and the
+farmer. It is entirely reasonable to expect that this interaction would only
+last a few seconds in an industrialized Western society.
+
+Anonymity is behind these differences. Smaller societies have little anonymity
+as it is easy (or at least, conceivable) that all members of the society know
+and depend upon each other to some extent. Anonymity appears once a society
+grows to a size such that most of its members cannot maintain personal
+relationships with all other members. At this size, people can no longer rely
+personal relationships to inform exchange, and the need for a generic medium of
+exchange arises. The most common example of this is currency in the form of
+money.
+
+The introduction of money into a society has a depersonalizing effect, both upon
+relationships and goods. When I was able to haggle with the apple farmer, I
+could perhaps offer her a stack of pork chops in exchange for that bushel of
+apples. The farmer, knowing that I always bake apple pies this year gives me
+Braeburn apples instead of the Galas I normally eat. In this exchange, both
+parties have exploited some knowledge of the other. In doing so, the goods
+assume an aspect of the relationship. I thank the farmer for remembering the
+right apples as I'm baking the pie, and the farmer recalls the time the pork
+chop on her plate escaped the pen and caused that ruckus in town. Now consider
+this exchange again, but this time mediated by money. Now the apples cost \$5.
+There's no reason to associate the apples with a particular farmer, and the
+farmer has little reason to remember to whom she's selling.
+
+This depersonalizing, anonymizing effect extends to the production of goods and
+services as well. As the social relationships once engendered by the act of
+exchange erode, the means of exchange reduces the products of labor to little
+more than their monetary cost. This deincentivizes the continuation of
+production legacies, or occupations, that shaped generations and societies.
+Western society is rife with allusions to occupations. We name everything from
+sports teams to cars to families after occupations. At one time, occupation was
+a significant contributor to a person's identity. This is no longer true in many
+Western societies. As manufacturing jobs have dwindled and corporations
+propagated, Westerners have begun to distance themselves from their occupations.
+
+Consumption has largely replaced occupation as a primary source of
+identity-making material in Western societies. As exchange and production have
+lost their social significance, and even disappeared from the landscape,
+Westerners have begun to signify identity through the products we buy, the media
+we watch or read, the foods we eat, and the ideologies to which we adhere. Where
+once a person might identify themselves as a miner or engineer, today they're
+more likely to identify themselves as a Cubs fan or steampunk, the former
+occupations relegated to the status of ``just work.''
+
+\begin{workscited}
+  \bibent
+  ``Social distance.'' \emph{New Oxford American Dictionary}, 2016. Oxford University Press.
+\end{workscited}
+
 \end{document}
